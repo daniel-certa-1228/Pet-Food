@@ -1,0 +1,22 @@
+body {
+	background-color: lightsteelblue;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-style: oblique;
+	margin: .5em 0;
+}
+
+h2 {
+	margin-bottom: .5em;
+	text-decoration: underline;
+}
+
+h3 {
+
+	margin: .5em 0;
+}
+.price {
+	font-weight: bold;
+}
