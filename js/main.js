@@ -27,7 +27,7 @@ function showDogFood(dogObjects){
 			}
 
 		}
-å
+
 	};
 
 	dogFoodDiv.innerHTML += dogFoodCard;
@@ -36,7 +36,7 @@ function showDogFood(dogObjects){
 
 function showCatFood(catObjects){
 	console.log( "catObjects", catObjects );
-å
+
 	let catFoodBrands = catObjects[0].cat_brands;
 	console.log( "catFoodBrands", catFoodBrands );
 
