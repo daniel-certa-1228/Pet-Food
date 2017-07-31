@@ -39,3 +39,19 @@ p {
 .price {
 	font-weight: bold;
 }
+
+.breed {
+	color: blue;
+	font-style: italic;
+	font-size: 1.1em;
+	text-decoration: underline;
+}
+
+#cat-food {
+	float: right;;
+	width: 60%;
+}
+
+#dog-food {
+	display: inline-block;
+}
